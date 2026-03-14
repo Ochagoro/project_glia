@@ -1,0 +1,11 @@
+# macOS
+.DS_Store
+
+# Unity
+GLIA_project/[Ll]ibrary/
+GLIA_project/[Tt]emp/
+GLIA_project/[Oo]bj/
+GLIA_project/[Bb]uild/
+GLIA_project/[Bb]uilds/
+GLIA_project/[Ll]ogs/
+GLIA_project/[Uu]ser[Ss]ettings/
